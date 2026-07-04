@@ -39,4 +39,4 @@ Spike Analysis
 - MOOSE
 - Python
 
-NOTE: Simulation scenarios are qualitative and intend to explore possible downstream effects rather than quantitatively predict receptor inhibition
+NOTE: The MOOSE simulations represent qualitative scenarios of altered orexin-mediated excitatory drive. Simulation parameters were selected to explore plausible downstream neuronal responses and are not directly derived from molecular docking scores.
